@@ -5,6 +5,9 @@ Bu proje, derin öğrenme ve görüntü işleme tekniklerini kullanarak devre ka
 ## Proje Tanımı
 
 Bu sistem, devre kartlarındaki dirençleri, kapasitörleri, entegre devreleri (IC), transistörleri ve diğer elektronik komponentleri yüksek doğrulukla tespit edebilmektedir. Proje, elektronik tasarım, üretim, montaj, hata analizi ve kalite kontrol gibi alanlarda kullanılabilir.
+![confusion_matrix](https://github.com/user-attachments/assets/cb52aaa7-8662-4b71-a60f-b248562fcefd)
+![val_batch0_pred](https://github.com/user-attachments/assets/e724fc50-bfc6-489f-94f6-222ca16f9b59)
+![results](https://github.com/user-attachments/assets/ae9f3b3a-d195-46f1-a347-83490d8d15b0)
 
 ## Kullanılan Teknolojiler
 
