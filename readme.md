@@ -15,7 +15,6 @@ Bu sistem, devre kartlarındaki dirençleri, kapasitörleri, entegre devreleri (
 - **Derin Öğrenme Kütüphanesi:** (Örneğin: TensorFlow, PyTorch, Ultralytics YOLO)
 - **Görüntü İşleme Kütüphanesi:** OpenCV
 - **Veri İşleme Kütüphanesi:** NumPy
-- **Diğer:** (Örneğin: Pandas, Matplotlib)
 
 ## Kurulum
 
@@ -46,7 +45,7 @@ Bu proje açık kaynaklıdır ve katkılarınızı memnuniyetle karşılar. Katk
 
 ## Lisans
 
-(Projeniz için bir lisans belirleyebilirsiniz: MIT, Apache 2.0, vb.)
+
 
 ## Uyarı
 
